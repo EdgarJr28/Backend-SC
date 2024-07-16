@@ -24,7 +24,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 2. **Navega al directorio del proyecto**:
 
     ```bash
-    cd tu-repositorio
+    cd backend-sc
     ```
 
 3. **Instala las dependencias**:

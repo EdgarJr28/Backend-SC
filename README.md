@@ -18,7 +18,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 1. **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/EdgarJr28/Backend-SC.git
     ```
 
 2. **Navega al directorio del proyecto**:

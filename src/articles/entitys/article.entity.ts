@@ -3,7 +3,7 @@ import { Entity, Column, ObjectId, ObjectIdColumn } from 'typeorm';
 @Entity()
 export class Article {
     @ObjectIdColumn()
-    id: ObjectId;
+    _id: ObjectId;
 
     @Column()
     author: string;
